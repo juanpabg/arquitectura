@@ -1,0 +1,2 @@
+﻿AddAndSubtract.obj : error LNK2005: ya se definió main en AddTwoSum_64.obj
+C:\Users\Juan\Downloads\Project64_VS2017\Project64\x64\Debug\Project64.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

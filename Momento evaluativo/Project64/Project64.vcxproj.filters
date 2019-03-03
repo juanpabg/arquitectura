@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="Irvine64.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="..\ch03\AddTwoSum_64.asm" />
+    <MASM Include="..\ch04\64 bit\AddAndSubtract.asm" />
+    <MASM Include="..\..\Irvine\Irvine\ch06\64 bit\BooleanOps.asm" />
+  </ItemGroup>
+</Project>
